@@ -12,7 +12,7 @@ Busber (Bad USB BusteR) is a tool for checking malicious USB devices.
 [ctf_tools.md](ctf_tools.md)  
 Collection of CTF tools developed for my personal needs.
 
-### [CTF writeups]
+### CTF writeups
 Whenever I'm doing CTF challenges, I try to do a writeup as I'm going through the challenge. Some of the writeups I've done:
 - [Hack the Box - Codify](https://github.com/Touhottaja/hacking_playground/blob/main/writeups/htb_codify/htb_codify.md)
 - [Hack the Box - Beep](https://github.com/Touhottaja/hacking_playground/blob/main/writeups/htb_beep/htb_beep.md)
