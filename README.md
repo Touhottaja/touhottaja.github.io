@@ -1,7 +1,7 @@
 # touhottaja.github.io
 Hi there internet dweller, thanks for stopping by 👋
 
-This GitHub pages site acts as a central place for me to collect my projects and thoughts into. You can see all of my public stuff over at https://github.com/Touhottaja.
+This GitHub pages site acts as a central place for me to collect my projects and thoughts into. You can see all of my public stuff on [GitHub](https://github.com/Touhottaja).
 
 ## [Busber](busber.md)
 [busber.md](busber.md)  
